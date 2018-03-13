@@ -20,10 +20,7 @@ def won?(board)
     win_combo = win_combination[0]
     win_combo = win_combination[1]
     win_combo = win_combination[2]
-    win_combo = win_combination[3]
-    win_combo = win_combination[4]
-    win_combo = win_combination[5]
-    win_combo = win_combination[6]
-    win_combo = win_combination[7]
+
+    position_1 = bo
   end
 end
