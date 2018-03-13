@@ -21,6 +21,7 @@ def won?(board)
     win_combo = win_combination[1]
     win_combo = win_combination[2]
 
-    position_1 = bo
+     console.log(position_1 = board[win_index_1])
+
   end
 end
